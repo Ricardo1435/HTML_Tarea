@@ -1,0 +1,48 @@
+
+
+body{
+	padding: 30px;
+	margin: 20px;
+	text-align: justify;
+}
+button{
+	background: #000000;
+	color: #FFFFFF;
+	height: 50px;
+	width: 20%;
+	font-size: 25px;
+}
+
+button:hover{
+	background: #93b5e1;
+	color: #000000;
+}
+
+footer{
+	color: gray;
+}
+
+
+.contenedor img
+{
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+p{
+	font-family: sans-serif;
+}
+h5{
+	font-size: 25px;
+}
+h6{
+	font-size: 20px;
+}
+
+nav ul {
+	list-style: none;
+	text-decoration: none;
+	padding-left: 0px;
+	color: #93b5e1;
+}
